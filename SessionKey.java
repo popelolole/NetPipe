@@ -3,9 +3,6 @@ import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import java.security.NoSuchAlgorithmException;
 
-/*
- * Skeleton code for class SessionKey
- */
 class SessionKey {
 
     private SecretKey secretKey;
